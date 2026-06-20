@@ -2,3 +2,5 @@
 
 Descripcion: Se esta realizando un proyecto hecho con Git sobre una biblioteca musical
 
+# Objetivos
+
