@@ -4,3 +4,5 @@ Descripcion: Se esta realizando un proyecto hecho con Git sobre una biblioteca m
 
 # Objetivos
 
+# Modificion tras realizar la vinculacion local con la remoto local (GitHub)
+
